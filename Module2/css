@@ -7,7 +7,7 @@ h1 {
 	font-size: 27px;
 	font-family: Times New Roman serif;
 	text-align: center;
-	color: rgb(0, 0, 0);
+	color:black;
 	margin-bottom: 30px;
 }
 
